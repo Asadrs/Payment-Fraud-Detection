@@ -1,7 +1,9 @@
 # 💳 AI-Powered Payment Fraud Detection
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+<p align="center">
+  <img src="./assets/dashboard.png" alt="Payment Fraud Detection Dashboard" width="900">
+</p>
 A machine learning-based fraud detection dashboard developed using Random Forest, SMOTE, Streamlit, and Python.
 
 ## Features
