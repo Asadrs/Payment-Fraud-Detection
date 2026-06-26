@@ -1,4 +1,7 @@
 # 💳 AI-Powered Payment Fraud Detection
+## 🚀 Live Demo
+
+https://payment-fraud-detection-mpfdnpbsev4qrhyf74tg2x.streamlit.app
 ## Dashboard Preview
 
 <p align="center">
